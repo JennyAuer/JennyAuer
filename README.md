@@ -2,10 +2,23 @@ Welcome to my GitHub! I am a recent college graduate with a Bachelor's degree in
 
 
 
+
+
+
+
+
 ❤️ I am an avid mountain, trials, and street unicyclist. 
+
 📚 I am a lifelong learner and am currently finishing prerequisites for my Master's degree.
+
 🤝 I have dedicated myself to advocating for and helping others in all areas of my life. 
+
 💻 My two favorite areas of exploration are machine learning and Django web development.
+
+
+
+
+
 
 
 
