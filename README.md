@@ -7,7 +7,7 @@ Welcome to my GitHub! I am a recent college graduate with a Bachelor's degree in
 
 
 
-❤️ I am an avid mountain, trials, and street unicyclist. 
+❤️ I am an avid mountain, street, and freestyle unicyclist. 
 
 📚 I am a lifelong learner and am currently finishing prerequisites for my Master's degree.
 
